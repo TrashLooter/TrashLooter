@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TrashLooter)](https://github.com/TrashLooter/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TrashLooter)
 <!--
 **TrashLooter/TrashLooter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
