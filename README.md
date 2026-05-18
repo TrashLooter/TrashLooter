@@ -43,7 +43,5 @@ Soy **Técnica Superior en Desarrollo de Aplicaciones Web** y utilizo este espac
 
 ---
 
-## 📫 Contacto
-
-- LinkedIn: [Tu enlace]
-- Correo: [Tu correo profesional]
+## Contacto
+- Correo: nadiamrtlpz@gmail.com
