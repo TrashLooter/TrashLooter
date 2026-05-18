@@ -27,6 +27,7 @@ Soy **Técnica Superior en Desarrollo de Aplicaciones Web** y utilizo este espac
 
 ### Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Bases de datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
