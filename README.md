@@ -12,7 +12,7 @@ Soy **Técnica Superior en Desarrollo de Aplicaciones Web**. Utilizo este espaci
 * Experiencia práctica en un proyecto de **transformación de datos**.
 * Participación en tareas de **creación, modificación y mejora de procesos ETL**.
 * Conocimientos en **bases de datos relacionales y no relacionales**.
-* Interés en el **backend** y **frontend**.
+* Interés en el desarrololo en **backend** y **frontend**.
 * En aprendizaje continuo, con capacidad de adaptación, responsabilidad e interés por seguir creciendo profesionalmente mediante la adquisición constante de nuevos conocimientos y habilidades.
 
 ---
